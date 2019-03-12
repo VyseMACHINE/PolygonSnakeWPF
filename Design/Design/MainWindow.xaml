@@ -1,0 +1,379 @@
+﻿<Window x:Class="Design.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Design"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas>
+
+        <Rectangle x:Name="rectangle_Copy7" Width="50" Height="95" StrokeThickness="3" Stroke="Black" Canvas.Left="374" Fill="DarkGreen" Canvas.Top="205" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.05" ScaleY="1.003"/>
+                    <SkewTransform AngleX="-12.331" AngleY="-13.117"/>
+                    <RotateTransform Angle="-10.882"/>
+                    <TranslateTransform X="8.381" Y="-12.614"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+
+        <Polygon Fill="#FF202523" Points="0,0 50,50 100,0" Canvas.Left="305" Canvas.Top="321" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Black" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle" Width="100">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="451.641"/>
+                    <TranslateTransform X="-1.093" Y="0.296"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+
+        <Polygon Fill="#FF7E7B7B" Points="0,0 50,50 100,0" Canvas.Left="254" Canvas.Top="270" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="451.041"/>
+                    <TranslateTransform X="-0.726" Y="-0.076"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+
+        <Rectangle x:Name="rectangle_Copy2" Width="50" Height="86" StrokeThickness="3" Stroke="Black" Canvas.Left="183" Fill="DarkGreen" Canvas.Top="291" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.05" ScaleY="1.003"/>
+                    <SkewTransform AngleX="-12.331" AngleY="-13.117"/>
+                    <RotateTransform Angle="-10.882"/>
+                    <TranslateTransform X="7.79" Y="-14.013"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Polygon Fill="#FF7E7B7B" Points="0,0 50,50 90,0" Canvas.Left="189" Canvas.Top="238" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle" Height="55">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="543.44"/>
+                    <TranslateTransform X="-0.505" Y="-0.587"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+
+        <Polygon Fill="#FF202523" Points="0,0 50,50 100,0" Canvas.Left="117" Canvas.Top="304" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Black" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle" Width="98">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="451.641"/>
+                    <TranslateTransform X="-0.957" Y="-1.078"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+
+        <Rectangle x:Name="rectangle_Copy1" Width="61" Height="80" Stroke="Black" StrokeThickness="4" Canvas.Left="188" Fill="Yellow" Canvas.Top="180" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.074"/>
+                    <SkewTransform AngleX="33.612" AngleY="5.91"/>
+                    <RotateTransform Angle="-225.361"/>
+                    <TranslateTransform X="-5.742" Y="-0.049"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+
+        <Polygon Fill="#FF202523" Points="0,0 30,50 100,0" Canvas.Left="158" Canvas.Top="246" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle" Height="50" Width="108">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="22.294"/>
+                    <RotateTransform Angle="371.739"/>
+                    <TranslateTransform X="-10.993" Y="-0.402"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+
+        <Polygon Fill="#FF202523" Points="0,0 50,50 100,0" Canvas.Left="67" Canvas.Top="102" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="270.692"/>
+                    <TranslateTransform X="0.507" Y="-1.439"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF7E7B7B" Points="0,0 50,50 100,0" Canvas.Left="67" Canvas.Top="156" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="451.041"/>
+                    <TranslateTransform X="0.112" Y="-1.44"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF7E7B7B" Points="0,0 50,50 100,0" Canvas.Left="66" Canvas.Top="255" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="451.041"/>
+                    <TranslateTransform X="-0.611" Y="-1.45"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF202523" Points="0,0 50,50 100,0" Canvas.Left="69" Canvas.Top="203" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle" Height="54">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="270.692"/>
+                    <TranslateTransform X="-0.242" Y="-1.427"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF202523" Points="0,0 50,50 100,0" Canvas.Left="66" Canvas.Top="304" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="270.692"/>
+                    <TranslateTransform X="-0.97" Y="-1.451"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF7E7B7B" Points="0,0 50,50 100,0" Canvas.Left="65" Canvas.Top="352" RenderTransformOrigin="0.5,0.5" Width="50" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="451.041"/>
+                    <TranslateTransform X="-1.131" Y="-1.457"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Rectangle x:Name="rectangle" Width="70" Height="69" Stroke="DarkGreen" Canvas.Left="101" Fill="#FF2C2424" Canvas.Top="31" RenderTransformOrigin="3.615,2.503">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="1.996"/>
+                    <RotateTransform Angle="-41.057"/>
+                    <TranslateTransform X="50.231" Y="-167.936"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="rectangle_Copy" Width="49" Height="103" StrokeThickness="4" Stroke="Gray" Canvas.Left="132" Fill="DarkRed" Canvas.Top="131" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.139"/>
+                    <SkewTransform AngleX="-12.582" AngleY="-28.6"/>
+                    <RotateTransform Angle="-10.882"/>
+                    <TranslateTransform X="12.749" Y="-26.962"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Polygon Fill="#FF7E7B7B" Points="0,0 50,50 100,0" Canvas.Left="117" Canvas.Top="255" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-9.986"/>
+                    <RotateTransform Angle="630.405"/>
+                    <TranslateTransform X="-0.645" Y="3.413"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF7E7B7B" Points="0,0 50,50 100,0" Canvas.Left="90" Canvas.Top="326" RenderTransformOrigin="0.5,0.5" Width="50" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="541.16"/>
+                    <TranslateTransform X="-1.134" Y="-1.086"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF343333" Points="0,0 50,50 90,0" Canvas.Left="235" Canvas.Top="248" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle" Height="55">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="720.308"/>
+                    <TranslateTransform X="-0.579" Y="-0.251"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Rectangle x:Name="rectangle_Copy3" Width="55" Height="65" Stroke="Black" StrokeThickness="4" Canvas.Left="275" Fill="DarkRed" Canvas.Top="202" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.074"/>
+                    <SkewTransform AngleX="33.612" AngleY="5.91"/>
+                    <RotateTransform Angle="-225.361"/>
+                    <TranslateTransform X="-5.85" Y="0.565"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Polygon Fill="#FF202523" Points="0,0 50,50 100,0" Canvas.Left="255" Canvas.Top="318" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="270.692"/>
+                    <TranslateTransform X="-1.077" Y="-0.07"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF7E7B7B" Points="0,0 50,50 100,0" Canvas.Left="252" Canvas.Top="371" RenderTransformOrigin="0.5,0.5" Width="50" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="451.041"/>
+                    <TranslateTransform X="-1.275" Y="-0.09"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF7E7B7B" Points="0,0 50,50 100,0" Canvas.Left="277" Canvas.Top="346" RenderTransformOrigin="0.5,0.5" Width="50" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="541.16"/>
+                    <TranslateTransform X="-1.286" Y="0.281"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF7E7B7B" Points="0,0 50,50 100,0" Canvas.Left="306" Canvas.Top="264" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-9.986"/>
+                    <RotateTransform Angle="630.405"/>
+                    <TranslateTransform X="-0.716" Y="4.795"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF202523" Points="0,0 50,50 100,0" Canvas.Left="307" Canvas.Top="220" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Black" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="451.641"/>
+                    <TranslateTransform X="-0.362" Y="0.313"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF7E7B7B" Points="0,0 50,50 100,0" Canvas.Left="308" Canvas.Top="161" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-9.986"/>
+                    <RotateTransform Angle="630.405"/>
+                    <TranslateTransform X="0.038" Y="4.812"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF202523" Points="0,0 50,50 100,0" Canvas.Left="309" Canvas.Top="118" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Black" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="451.641"/>
+                    <TranslateTransform X="0.384" Y="0.331"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF7E7B7B" Points="0,0 50,50 100,0" Canvas.Left="310" Canvas.Top="61" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-9.986"/>
+                    <RotateTransform Angle="630.405"/>
+                    <TranslateTransform X="0.769" Y="4.829"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF202523" Points="0,0 50,50 100,0" Canvas.Left="363" Canvas.Top="118" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Black" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="631.719"/>
+                    <TranslateTransform X="0.382" Y="0.726"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF7E7B7B" Points="0,0 50,50 100,0" Canvas.Left="391" Canvas.Top="91" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="360.494"/>
+                    <TranslateTransform X="0.579" Y="0.931"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF7E7B7B" Points="0,0 50,50 100,0" Canvas.Left="389" Canvas.Top="146" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Aquamarine" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="541.367"/>
+                    <TranslateTransform X="0.177" Y="0.915"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Polygon Fill="#FF202523" Points="0,0 50,50 100,0" Canvas.Left="412" Canvas.Top="119" RenderTransformOrigin="0.5,0.5" StrokeThickness="2" Stroke="Black" StrokeDashCap="Triangle" StrokeEndLineCap="Triangle" StrokeStartLineCap="Triangle">
+            <Polygon.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="451.641"/>
+                    <TranslateTransform X="0.374" Y="1.084"/>
+                </TransformGroup>
+            </Polygon.RenderTransform>
+        </Polygon>
+        <Rectangle x:Name="rectangle_Copy4" Width="49" Height="103" StrokeThickness="4" Stroke="Gray" Canvas.Left="474" Fill="DarkRed" Canvas.Top="101" RenderTransformOrigin="6.424,2.556">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.12"/>
+                    <SkewTransform AngleX="-12.582" AngleY="-25.528"/>
+                    <RotateTransform Angle="-10.882"/>
+                    <TranslateTransform X="6.069" Y="-230.979"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="rectangle_Copy5" Width="70" Height="74" Stroke="DarkGreen" Canvas.Left="352" Fill="#FF575555" Canvas.Top="1" RenderTransformOrigin="3.615,2.503">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="1.996"/>
+                    <RotateTransform Angle="-38.953"/>
+                    <TranslateTransform X="50.352" Y="-166.1"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="rectangle_Copy6" Width="61" Height="80" Stroke="Black" StrokeThickness="4" Canvas.Left="442" Fill="Yellow" Canvas.Top="29" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.074" ScaleY="1.017"/>
+                    <SkewTransform AngleX="39.052" AngleY="5.91"/>
+                    <RotateTransform Angle="-225.361"/>
+                    <TranslateTransform X="-9.613" Y="5.901"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="rectangle_Copy8" Width="50" Height="94" StrokeThickness="3" Stroke="Black" Canvas.Left="372" Fill="Yellow" Canvas.Top="302" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.05" ScaleY="1.003"/>
+                    <SkewTransform AngleX="-12.331" AngleY="-13.117"/>
+                    <RotateTransform Angle="-10.882"/>
+                    <TranslateTransform X="7.675" Y="-12.631"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+    </Canvas>
+</Window>
